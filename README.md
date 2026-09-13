@@ -8,12 +8,11 @@
 
 **I build operating systems. Linux, Wayland, zero-copy, no hand-holding.**
 
-`C++` · `Rust` · `Go` · `Shell`
+`C++` · `Go` · `Shell`
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Wayland](https://img.shields.io/badge/Wayland-ffffff?style=for-the-badge&logo=wayland&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
@@ -39,7 +38,7 @@ A C++20 RAII wrapper around wlroots 0.20 + the scenefx effect engine. Type-safe,
 |------|----------------|
 | systems | Linux internals, kernel-adjacent work, source-based builds |
 | graphics | Wayland, compositors, wlroots, scenefx |
-| languages | C++, Rust, Go, Shell |
+| languages | C++, Go, Shell |
 | genuinely interesting me | compositor design, package management, minimal OSes |
 
 ---
