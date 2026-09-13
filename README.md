@@ -1,78 +1,76 @@
-<img src="./banner.png" width="100%" alt="Astral banner" />
-
-<br />
-
 <div align="center">
 
-# hey, i'm astral
-
-**Linux systems · Wayland compositors · source-built tooling**
-
-`C++` • `Rust` • `Shell` • `Go`
-
-Crafting operating systems and low-level software, one package at a time.
+<img src="./banner.png" width="100%" alt="astral — building operating systems, one package at a time" />
 
 <br />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wayland](https://img.shields.io/badge/Wayland-ffffff?style=flat-square&logo=wayland&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+## astral
 
-![Profile Views](https://komarev.com/ghpvc/?username=sf0e&color=7f5af0&style=flat-square&label=Profile+Views)
+**I build operating systems. Linux, Wayland, zero-copy, no hand-holding.**
+
+`C++` · `Rust` · `Go` · `Shell`
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-ffffff?style=for-the-badge&logo=wayland&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
 ---
 
-### 🛠 What I'm working on
+## currently building
 
-- **Silen** — an independent, source-built Linux distribution, built with my
-  good friend [Cgtlpa](https://github.com/Cgtlpa). Heads down on the toolchain,
-  the package manager, and the tooling that holds an OS together.
-- **LeWM** — a wlroots-based Wayland compositor in C++ with a custom `le`
-  config language.
-- **wlrootspp** — a C++20 RAII wrapper around wlroots 0.20 with the scenefx
-  effect engine.
+### [Silen]()
+An independent, source-built Linux distribution — built with [Cgtlpa](https://github.com/Cgtlpa). The whole stack: our own package manager, the build tooling, and the infrastructure an OS runs on. When it boots and stays booted, that's the win.
 
-### 🧰 Experience
+### [LeWM]()
+A wlroots-based Wayland compositor written in C++. Own config language, own decisions — a compositor that behaves the way I think a compositor should.
 
-- **Systems / low-level:** Linux, Wayland, kernel-adjacent work, source builds
-- **Languages:** C++, Rust, Go, Shell
-- **Interests:** compositors, package management, minimal operating systems
+### [wlrootspp]()
+A C++20 RAII wrapper around wlroots 0.20 + the scenefx effect engine. Type-safe, deterministic cleanup, no manual lifetimes — wlroots without the footgun.
 
 ---
 
-### ⚠️ A note on activity
+## the stack
 
-I'm open about this because hiding it would be dishonest: I live with
-addiction to **nicotine** and **cannabis**. When I'm out and struggling with
-withdrawal, my contributions slow down. That's the honest reason, and it
-doesn't change the work — it just means sometimes it comes in waves.
-
-If my repos are quiet for a stretch, that's why. I pick right back up where I
-left off.
+| area | what I live in |
+|------|----------------|
+| systems | Linux internals, kernel-adjacent work, source-based builds |
+| graphics | Wayland, compositors, wlroots, scenefx |
+| languages | C++, Rust, Go, Shell |
+| genuinely interesting me | compositor design, package management, minimal OSes |
 
 ---
 
-### 📬 Contact
+## a note on activity
+
+I'm open about this because hiding it would be dishonest: I live with addiction to **nicotine** and **cannabis**. When I'm out and struggling with withdrawal, my contributions slow down — that's the honest reason, and it doesn't change the work. It comes in waves, and I pick right back up where I left off. If my repos go quiet for a stretch, that's why.
+
+---
+
+## reach me
 
 - **Email** — [wowastral7@gmail.com](mailto:wowastral7@gmail.com)
 - **TikTok** — [@voidlinuxlover](https://www.tiktok.com/@voidlinuxlover)
 
-Thanks for stopping by — hope you like the stuff.
+Thanks for stopping by. Stay curious.
 
 ---
 
 <div align="center">
 
 ```
-     #   ##### ##### ####    #   #   ##### #   #
-    # #  #       #   #   #  # #  #      #   # #  
-   ##### ####    #   ####  ##### #      #     #  
-   #   #     #   #   # #   #   # #      #     # #
-   #   # #####   #   #  #  #   # ##### ##### #   #
+  ██████  ██▓    █████  ██▓     ███▄    █
+▒██    ▒ ▓██▒  ▓██   ▒▓██▒      ██ ▀█   █
+░ ▓██▄   ▒██░  ▒████ ░▒██░     ▓██  ▀█ ██▒
+  ▒   ██▒░██░  ░▓█▒  ░░██░     ▓██▒  ▐▌██▒
+▒██████▒▒░██░  ░▒█░   ░██░    ▒██░   ▓██░
+▒ ▒▓▒ ▒ ░░▓    ▒ ░    ░▓      ░ ▒░   ▒ ▒
+░ ░▒  ░ ░ ▒ ░  ░ ░     ▒ ░     ░ ░░   ░ ▒░
+░  ░  ░   ▒ ░    ░ ░   ▒ ░        ░   ░ ░
+      ░   ░           ░                ░
 ```
 
 </div>
