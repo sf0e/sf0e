@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%" alt="AstralZX banner" />
+<img src="./banner.png" width="100%" alt="Astral banner" />
 
 <br />
 
@@ -20,7 +20,7 @@ Crafting operating systems and low-level software, one package at a time.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AstralZX&color=7f5af0&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sf0e&color=7f5af0&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -28,9 +28,9 @@ Crafting operating systems and low-level software, one package at a time.
 
 ### 🛠 What I'm working on
 
-- **Keru OS** — an independent, source-only Linux distribution. A shell-driven
-  package manager (**Kama**), a craft-your-own-system TUI installer, and
-  full swappability (init, libc, filesystem) chosen at install time.
+- **Silen** — an independent, source-built Linux distribution, built with my
+  good friend [Cgtlpa](https://github.com/Cgtlpa). Heads down on the toolchain,
+  the package manager, and the tooling that holds an OS together.
 - **LeWM** — a wlroots-based Wayland compositor in C++ with a custom `le`
   config language.
 - **wlrootspp** — a C++20 RAII wrapper around wlroots 0.20 with the scenefx
