@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="astral — building operating systems, one package at a time" />
+<img src="./banner.png" width="100%" alt="astral" />
 
 <br />
 
@@ -22,49 +22,21 @@
 
 ---
 
-## who I am
+Systems person. Terminal, kernel, compositor.
 
-Systems person. I live in the terminal, the kernel, and the compositor.
-
-Things I care about, in no particular order:
-
-- Linux internals and what happens under the hood
-- Wayland, compositors, and graphics done right
-- source-based distros and package management
-- minimal tools that do exactly one thing
+- Linux internals, what happens under the hood
+- Wayland and graphics done right
+- source-based distros, package management
+- minimal tools that do one thing
 - Geometry Dash mods, because why not
 
-## how I work
+I build from scratch even when it's slower — understand the whole stack or not at all. Half my repos are private because they're for me.
 
-I build things from scratch even when it's slower. I'd rather understand the whole stack than bolt onto someone else's. Half my repos are private because they're for me, not for an audience.
-
-## a note on activity
-
-Commits come in waves — if I go quiet for a stretch, I'm probably out of cigarettes. Nothing's wrong; I pick right back up where I left off.
+Commits come in waves. If I go quiet, I'm probably out of cigarettes.
 
 ---
 
-## reach me
-
-- **Email** — [wowastral7@gmail.com](mailto:wowastral7@gmail.com)
-- **TikTok** — [@voidlinuxlover](https://www.tiktok.com/@voidlinuxlover)
+**Email** — [wowastral7@gmail.com](mailto:wowastral7@gmail.com)
+**TikTok** — [@voidlinuxlover](https://www.tiktok.com/@voidlinuxlover)
 
 Thanks for stopping by. Stay curious.
-
----
-
-<div align="center">
-
-```
-  ██████  ██▓    █████  ██▓     ███▄    █
-▒██    ▒ ▓██▒  ▓██   ▒▓██▒      ██ ▀█   █
-░ ▓██▄   ▒██░  ▒████ ░▒██░     ▓██  ▀█ ██▒
-  ▒   ██▒░██░  ░▓█▒  ░░██░     ▓██▒  ▐▌██▒
-▒██████▒▒░██░  ░▒█░   ░██░    ▒██░   ▓██░
-▒ ▒▓▒ ▒ ░░▓    ▒ ░    ░▓      ░ ▒░   ▒ ▒
-░ ░▒  ░ ░ ▒ ░  ░ ░     ▒ ░     ░ ░░   ░ ▒░
-░  ░  ░   ▒ ░    ░ ░   ▒ ░        ░   ░ ░
-      ░   ░           ░                ░
-```
-
-</div>
