@@ -6,9 +6,9 @@
 
 # astral
 
-**I build operating systems. Linux, Wayland, zero-copy, no hand-holding.**
+<nothing here is finished, nothing here is simple, nothing here gives up>
 
-Sometimes I build a Geometry Dash mod or an OSINT tool. Nobody's perfect.
+**I build operating systems. Linux, Wayland, zero-copy, no hand-holding.**
 
 `C++` · `Go` · `Python` · `Shell`
 
@@ -22,72 +22,21 @@ Sometimes I build a Geometry Dash mod or an OSINT tool. Nobody's perfect.
 
 ---
 
-## currently building
+## who I am
 
-### [Silen](https://github.com/sf0e/keruOS-backup)
-An independent, source-built Linux distribution. The whole stack — package manager, build tooling, infrastructure — is ours. When it boots and stays booted, that's the win.
+Systems person. I live in the terminal, the kernel, and the compositor.
 
-### [LeWM](https://github.com/sf0e/LeWM)
-A wlroots-based Wayland compositor written in C++, driven by its own config language (`le`). Zero-copy, opinionated, and behaves the way I think a compositor should.
+Things I care about, in no particular order:
 
-### [wlrootspp](https://github.com/sf0e/wlrootspp)
-A C++20 RAII wrapper around wlroots 0.20 + the scenefx effect engine. Type-safe, deterministic cleanup, no manual lifetimes — wlroots without the footgun.
+- Linux internals and what happens under the hood
+- Wayland, compositors, and graphics done right
+- source-based distros and package management
+- minimal tools that do exactly one thing
+- Geometry Dash mods, because why not
 
----
+## how I work
 
-## stuff I've made
-
-### systems & low-level
-| project | what it is |
-|---|---|
-| [linux-k-kernel](https://github.com/sf0e/linux-k-kernel) | kernel-level work, one package at a time |
-| [keruOS-backup](https://github.com/sf0e/keruOS-backup) | the KeruOS source tree, mirrored |
-| [kama-backup](https://github.com/sf0e/kama-backup) | `kama` package manager — backup mirror |
-| [curlopsec](https://github.com/sf0e/curlopsec) | one-line OPSEC bootstrap: `bash <(curl -sL .../opsec.sh)` |
-
-### Wayland & graphics
-| project | what it is |
-|---|---|
-| [cosmic-live-wallpaper](https://github.com/sf0e/cosmic-live-wallpaper) | animated wallpaper for COSMIC desktop on Wayland |
-| [LeWM](https://github.com/sf0e/LeWM) | C++ wlroots compositor with the `le` config language |
-| [wlrootspp](https://github.com/sf0e/wlrootspp) | RAII wrapper around wlroots + scenefx |
-
-### geometry dash
-| project | what it is |
-|---|---|
-| [Click-Between-Frames](https://github.com/sf0e/Click-Between-Frames) | GD mod that lets you input between visual frames |
-
-### security & OSINT
-| project | what it is |
-|---|---|
-| [0day](https://github.com/sf0e/0day) | OSINT & OPSEC command center for pen testers |
-| [gitsearch](https://github.com/sf0e/gitsearch) | finds public emails from GitHub users |
-| [curlopsec](https://github.com/sf0e/curlopsec) | single-command opsec setup script |
-
-### tools, dots & misc
-| project | what it is |
-|---|---|
-| [tty-arcade](https://github.com/sf0e/tty-arcade) | 76 terminal minigames, Python + curses, zero deps |
-| [mapmaker](https://github.com/sf0e/mapmaker) | osu!mania mapping tool in PyQt6 + Pillow |
-| [My-Dots](https://github.com/sf0e/My-Dots) | dotfiles for peachWM |
-| [dotfiles](https://github.com/sf0e/dotfiles) | the ever-changing setup |
-| [malawae](https://github.com/sf0e/malawae) | very dangerous ransomware (download please) |
-
-> Most of these are private. They're here because I said so.
-
----
-
-## the stack
-
-| area | what I live in |
-|------|----------------|
-| systems | Linux internals, kernel-adjacent work, source-based builds |
-| graphics | Wayland, compositors, wlroots, scenefx |
-| languages | C++, Python, Go, Shell |
-| games | Geometry Dash, input-level modding |
-| genuinely interesting me | compositor design, package management, minimal OSes |
-
----
+I build things from scratch even when it's slower. I'd rather understand the whole stack than bolt onto someone else's. Half my repos are private because they're for me, not for an audience.
 
 ## a note on activity
 
