@@ -1,0 +1,217 @@
+{
+ "key": "134e3225",
+ "stars": 2,
+ "contributions": 114,
+ "repos": 6,
+ "followers": 0,
+ "languages": [
+  [
+   "C",
+   50727
+  ],
+  [
+   "HTML",
+   19460
+  ],
+  [
+   "Scheme",
+   8556
+  ],
+  [
+   "Python",
+   8508
+  ],
+  [
+   "Lua",
+   7570
+  ],
+  [
+   "CSS",
+   3965
+  ],
+  [
+   "Meson",
+   967
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "zeta-index",
+   "url": "https://github.com/gretagen/zeta-index",
+   "text": "Package repository for the zeta package manager",
+   "fork": false,
+   "stars": 11,
+   "language": "Lua",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "My-Dots",
+   "url": "https://github.com/sf0e/My-Dots",
+   "text": "my dot files for peachWM",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "curlopsec",
+   "url": "https://github.com/sf0e/curlopsec",
+   "text": "opsex",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "genbox",
+   "url": "https://github.com/sf0e/genbox",
+   "text": "A small Gentoo-based distro with BusyBox init and an OpenRC-compatible service manager",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "hawk-site",
+   "url": "https://github.com/sf0e/hawk-site",
+   "text": "Hawk website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "hawk",
+   "url": "https://github.com/sf0e/hawk",
+   "text": "Hawk: a small privacy-first browser for Linux, written in C on GTK4 + WebKitGTK, with on-demand local SearXNG search. BSD-2.",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "sf0e",
+   "url": "https://github.com/sf0e/sf0e",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
